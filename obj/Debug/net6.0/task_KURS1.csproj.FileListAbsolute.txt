@@ -13,3 +13,18 @@
 /Users/nik/Documents/git/4. Знакомство с языками программирования/Семинары/4.2.Seminar/task_KURS1/obj/Debug/net6.0/task_KURS1.pdb
 /Users/nik/Documents/git/4. Знакомство с языками программирования/Семинары/4.2.Seminar/task_KURS1/obj/Debug/net6.0/task_KURS1.genruntimeconfig.cache
 /Users/nik/Documents/git/4. Знакомство с языками программирования/Семинары/4.2.Seminar/task_KURS1/obj/Debug/net6.0/ref/task_KURS1.dll
+/Users/nik/Desktop/task_KURS1/bin/Debug/net6.0/task_KURS1
+/Users/nik/Desktop/task_KURS1/bin/Debug/net6.0/task_KURS1.deps.json
+/Users/nik/Desktop/task_KURS1/bin/Debug/net6.0/task_KURS1.runtimeconfig.json
+/Users/nik/Desktop/task_KURS1/bin/Debug/net6.0/task_KURS1.dll
+/Users/nik/Desktop/task_KURS1/bin/Debug/net6.0/task_KURS1.pdb
+/Users/nik/Desktop/task_KURS1/obj/Debug/net6.0/task_KURS1.csproj.AssemblyReference.cache
+/Users/nik/Desktop/task_KURS1/obj/Debug/net6.0/task_KURS1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nik/Desktop/task_KURS1/obj/Debug/net6.0/task_KURS1.AssemblyInfoInputs.cache
+/Users/nik/Desktop/task_KURS1/obj/Debug/net6.0/task_KURS1.AssemblyInfo.cs
+/Users/nik/Desktop/task_KURS1/obj/Debug/net6.0/task_KURS1.csproj.CoreCompileInputs.cache
+/Users/nik/Desktop/task_KURS1/obj/Debug/net6.0/task_KURS1.dll
+/Users/nik/Desktop/task_KURS1/obj/Debug/net6.0/refint/task_KURS1.dll
+/Users/nik/Desktop/task_KURS1/obj/Debug/net6.0/task_KURS1.pdb
+/Users/nik/Desktop/task_KURS1/obj/Debug/net6.0/task_KURS1.genruntimeconfig.cache
+/Users/nik/Desktop/task_KURS1/obj/Debug/net6.0/ref/task_KURS1.dll

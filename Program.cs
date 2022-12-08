@@ -9,26 +9,42 @@
 // ["Russia", "Denmark", "Kazan"] -> []
 
 string[] array = {"Варан", "Ёж", "Сова", "Лещ", "Бегемот", "Як", "Слон"};
-var count = 0;
-for (int i = 0; i < array.Length; i++)
+
+int arrayFirstCount = GetArrayCount(array);
+string[] arraySecond = GetArrayNew(array, arrayFirstCount);
+PrintArray(arraySecond);
+
+int GetArrayCount(string[] array)
 {
-    if(array[i].Length <= 3)
+    var count = 0;
+    for (int i = 0; i < array.Length; i++)
     {
-        count++;
+        if(array[i].Length <= 3)
+        {
+            count++;
+        }
     }
+    return count;
 }
 
-string[] arrayNew = new string[count];
-var countEl = 0;
-for (int i = 0; i < array.Length; i++)
+string[] GetArrayNew(string[] array, int arrayFirstCount)
 {
-    if(array[i].Length <= 3)
+    string[] arrayNew = new string[arrayFirstCount];
+    var countEl = 0;
+    for (int i = 0; i < array.Length; i++)
     {
-        arrayNew[countEl++] = array[i];
+        if(array[i].Length <= 3)
+        {
+            arrayNew[countEl++] = array[i];
+        } 
     }
+    return arrayNew;
 }
 
-for (int i = 0; i < arrayNew.Length; i++)
+void PrintArray(string[] arrayNew)
 {
-    Console.Write(arrayNew[i] + " ");
+    for (int i = 0; i < arrayNew.Length; i++)
+    {
+        Console.Write(arrayNew[i] + " ");
+    }
 }

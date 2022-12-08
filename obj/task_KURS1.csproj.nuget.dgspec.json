@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nik/Documents/git/4. Знакомство с языками программирования/Семинары/4.2.Seminar/task_KURS1/task_KURS1.csproj": {}
+    "/Users/nik/Desktop/task_KURS1/task_KURS1.csproj": {}
   },
   "projects": {
-    "/Users/nik/Documents/git/4. Знакомство с языками программирования/Семинары/4.2.Seminar/task_KURS1/task_KURS1.csproj": {
+    "/Users/nik/Desktop/task_KURS1/task_KURS1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nik/Documents/git/4. Знакомство с языками программирования/Семинары/4.2.Seminar/task_KURS1/task_KURS1.csproj",
+        "projectUniqueName": "/Users/nik/Desktop/task_KURS1/task_KURS1.csproj",
         "projectName": "task_KURS1",
-        "projectPath": "/Users/nik/Documents/git/4. Знакомство с языками программирования/Семинары/4.2.Seminar/task_KURS1/task_KURS1.csproj",
+        "projectPath": "/Users/nik/Desktop/task_KURS1/task_KURS1.csproj",
         "packagesPath": "/Users/nik/.nuget/packages/",
-        "outputPath": "/Users/nik/Documents/git/4. Знакомство с языками программирования/Семинары/4.2.Seminar/task_KURS1/obj/",
+        "outputPath": "/Users/nik/Desktop/task_KURS1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nik/.nuget/NuGet/NuGet.Config"
